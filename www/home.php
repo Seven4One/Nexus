@@ -1,30 +1,18 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="pt_br">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Nexus</title>
-
-	<!-- Bootstrap -->
 	<link rel="stylesheet" href="css/bootstrap.css">
-
-	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-<!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-  <![endif]-->
 </head>
 <body>
-	<nav>
+	<nav style="background: #F0F8FF">
 		<div class="container"> 
-
-			<!-- Brand and toggle get grouped for better mobile display -->
 			<div class="navbar-header">
 				<a class="navbar-brand" href="#">Nexus</a> </div>
-
-				<!-- Collect the nav links, forms, and other content for toggling -->
+				
 				<div class="collapse navbar-collapse">
 					<form class="navbar-form navbar-right" role="search">
 						<div class="form-group">
@@ -35,31 +23,31 @@
 						<button type="submit" class="btn btn-default">Registrar</button>
 					</form>
 				</div>
-				<!-- /.navbar-collapse --> 
 			</div>
-			<!-- /.container-fluid --> 
+			
 		</nav>
-		<hr>
-		<hr>
+		<br>
 		<div class="container">
 			<div class="row text-center">
 				<div class="col-sm-4 col-md-4 col-lg-4 col-xs-6">
-					<div class="thumbnail"> <img src="img/conecta.png" alt="Thumbnail Image 1" class="img-responsive">      </div>
+					<div class="thumbnail"> <a href="http://conecta.usjt.br"><img src="img/conecta.png" alt="Thumbnail Image 1" class="img-responsive">      </a></div>
 				</div>
 				<div class="col-sm-4 col-md-4 col-lg-4 col-xs-6">
-					<div class="thumbnail"> <img src="img/expressao.png" alt="Thumbnail Image 1" class="img-responsive">      </div>
+					<div class="thumbnail"> <a href="https://www.facebook.com/expressaoUSJT/" target="blank"><img src="img/expressao.png" alt="Thumbnail Image 1" class="img-responsive">      </a></div>
 				</div>
 				<div class="col-sm-4 col-md-4 col-lg-4 col-xs-6">
-					<div class="thumbnail"> <img src="img/pupila.png" alt="Thumbnail Image 1" class="img-responsive">      </div>
+					<div class="thumbnail"> <a href="https://www.pupilausjt.com/a-pupila" target="blank"><img src="img/pupila.png" alt="Thumbnail Image 1" class="img-responsive">      </a></div>
 				</div>
 				<div class="col-sm-4 col-md-4 col-lg-4 col-xs-6">
-					<div class="thumbnail"> <img src="img/transmid.png" alt="Thumbnail Image 1" class="img-responsive">      </div>
+					<div class="thumbnail"><a href="http://transmid.usjt.br/"><img src="img/transmid.png" alt="Thumbnail Image 1" class="img-responsive">      </a></div>
 				</div>
 				<div class="col-sm-4 col-md-4 col-lg-4 col-xs-6">
-					<div class="thumbnail"> <img src="img/tvsaojudas.png" alt="Thumbnail Image 1" class="img-responsive">      </div>
+					<div class="thumbnail"> <a href="https://www.youtube.com/user/tvSaoJudas
+" target="blank"><img src="img/tvsaojudas.png" alt="Thumbnail Image 1" class="img-responsive">      </a></div>
 				</div>
 				<div class="col-sm-4 col-md-4 col-lg-4 col-xs-6">
-					<div class="thumbnail"> <img src="img/radioweb.png"" alt="Thumbnail Image 1" class="img-responsive">      </div>
+					<div class="thumbnail"><a href="https://www.facebook.com/RadioWebSaoJudas
+" target="blank"><img src="img/radioweb.png"" alt="Thumbnail Image 1" class="img-responsive">      </a></div>
 				</div>
 			</div>
 		</div>
@@ -80,7 +68,6 @@
 				</div>
 			</div>
 		</div>
-
 		<footer class="text-center">
 			<div class="container">
 				<div class="row">
@@ -90,9 +77,7 @@
 				</div>
 			</div>
 		</footer>
-		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 		<script src="js/jquery-1.11.3.min.js"></script> 
-		<!-- Include all compiled plugins (below), or include individual files as needed --> 
 		<script src="js/bootstrap.js"></script>
 	</body>
 	</html>
