@@ -11,7 +11,7 @@
   <nav class="navbar navbar-default" style="background: #F0F8FF">
     <div class="container-fluid"> 
       <div class="navbar-header">
-        <img src="" width="10%" height="10%" alt="Nexus Logo" class=""></div>
+        <img src="img/ico-nexus.png" alt="Nexus Logo" class="img-responsive"></div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <form class="navbar-form navbar-right" role="search">
             <div class="form-group">
@@ -52,28 +52,22 @@
       <div class="container ">
         <div class="row">
           <div class="col-lg-4 col-sm-12 text-center"> <img class="img-circle" alt="140x140" style="width: 140px; height: 140px;" src="img/pupila.png" data-holder-rendered="true">
-            <h3>Pupila</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+            <p>A Agência Pupila é um laboratório experimental de criação publicitária, que atende clientes externos e internos. Seu foco é a execução de campanhas e ações comunicacionais. </p>
           </div>
           <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="140x140" style="width: 140px; height: 140px;" src="img/radioweb.png" data-holder-rendered="true">
-            <h3>Radio WEB</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+            <p>Criada em 2008, a Radioweb São Judas é uma emissora virtual experimental. Tem uma programação que mescla programas ao vivo, rádio-revistas, reportagens, programação musical etc. </p>
           </div>
           <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="140x140" style="width: 140px; height: 140px;" src="img/tvsaojudas.png" data-holder-rendered="true">
-            <h3>TV São Judas&nbsp;</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+            <p>Criada em 1997, é um canal de comunicação audiovisual e interação. O público alvo é formado por alunos e ex-alunos da São Judas, de todas as áreas de formação, pelas famílias e rede de relações desse universo. </p>
           </div>
           <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="140x140" style="width: 140px; height: 140px;" src="img/conecta.png" data-holder-rendered="true">
-            <h3>Agência Conecta</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+            <p>A Agência Conecta é uma agência de notíciasl que pretende integrar a comunidade ao redor da Universidade São Judas, por meio de notícias relevantes. Reunir histórias sobre alunos, professores, funcionários, visitantes, pessoas que se relacionam com faculdades, cursos de extensão e pós-graduação, iniciativas envolvendo outras instituições ou abertas à comunidade. </p>
           </div>
           <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="140x140" style="width: 140px; height: 140px;" src="img/transmid.png" data-holder-rendered="true">
-            <h3>Transmid</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+            <p>Criado em 2016, este laboratório põe em prática a integração de diversas mídias na produção de conteúdo. Na prática, atua com gravação e edição de vídeos, fotos, conteúdo para redes sociais, blogs, releases, matérias, cobertura de eventos, entrevistas... identidade: coloquial, inquieta, criativa.</p>
           </div>
           <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="140x140" style="width: 140px; height: 140px;" src="img/expressao.png" data-holder-rendered="true">
-            <h3>Jornal Expressão</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+            <p>O jornal Expressão é um produto laboratorial dos alunos de jornalismo. Ele existe há 24 anos. Atualmente são publicadas 15 edições anuis. O acervo do jornal está no endereço do issuu, acima. </p>
           </div>
         </div>
         <div class="row"> </div>
