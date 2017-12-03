@@ -22,7 +22,6 @@
 
 			<!-- Brand and toggle get grouped for better mobile display -->
 			<div class="navbar-header">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
 				<a class="navbar-brand" href="#">Nexus</a> </div>
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
@@ -53,15 +52,13 @@
 				<div class="col-sm-4 col-md-4 col-lg-4 col-xs-6">
 					<div class="thumbnail"> <img src="img/pupila.png" alt="Thumbnail Image 1" class="img-responsive">      </div>
 				</div>
-			</div>
-			<div class="row text-center hidden-xs">
-				<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+				<div class="col-sm-4 col-md-4 col-lg-4 col-xs-6">
 					<div class="thumbnail"> <img src="img/transmid.png" alt="Thumbnail Image 1" class="img-responsive">      </div>
 				</div>
-				<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+				<div class="col-sm-4 col-md-4 col-lg-4 col-xs-6">
 					<div class="thumbnail"> <img src="img/tvsaojudas.png" alt="Thumbnail Image 1" class="img-responsive">      </div>
 				</div>
-				<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+				<div class="col-sm-4 col-md-4 col-lg-4 col-xs-6">
 					<div class="thumbnail"> <img src="img/radioweb.png"" alt="Thumbnail Image 1" class="img-responsive">      </div>
 				</div>
 			</div>
