@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt_br">
 <head>
 	<meta charset="utf-8">
@@ -12,9 +12,7 @@
 	<nav class="navbar navbar-default navbar-inverse">
 		<div class="container-fluid"> 
 			<div class="navbar-header">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
 				<a href="http://localhost/Nexus/www/nexus/com/br/" title="Nexus"><img src="img/ico-nexus.png" alt="Nexus Logo" class="img-responsive"></a></div>
-
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-right">
 						<form class="navbar-form navbar-right" role="search">
@@ -57,7 +55,7 @@
 				<hr>
 				<div class="container well">
 					<div class="row">
-						<div class="col-xs-6 col-sm-6 col-lg-5 col-md-12"> 
+						<div class="col-xs-6 col-sm-6 col-lg-5 col-md-6"> 
 							<address>
 								<strong>Universidade São Judas Tadeu</strong><br>
 								Rua Taquari, 546 - Mooca<br>
@@ -69,7 +67,12 @@
 								<a href="http://www.usjt.br/">http://www.usjt.br/</a>
 							</address>
 						</div>
-					</div>
+						<strong style="box-sizing: border-box; font-weight: bold;">Portal do Aluno</strong><br style="box-sizing: border-box;">
+                        <br>
+                        <p><strong><br>
+                        </strong></p>
+                        <p><strong>Site</strong></p>
+                        <a href="https://aluno.usjt.br/SOL/aluno/index.php/index/seguranca/dev/instituicao/8">http://aluno.usjt.br/</a></div>
 				</div>
 				<footer class="text-center">
 					<div class="container">
@@ -81,6 +84,6 @@
 					</div>
 				</footer>
 				<script src="js/jquery-1.11.3.min.js"></script> 
-				<script src="js/bootstrap.js"></script>
+				<script src="js/bootstrap.js"></script>​
 			</body>
 			</html>

@@ -13,32 +13,30 @@
     <div class="container-fluid"> 
       <div class="navbar-header">
         <a href="http://localhost/Nexus/www/nexus/com/br/" title="Nexus"><img src="img/ico-nexus.png" alt="Nexus Logo" class="img-responsive"></a></div>
-
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <div class="container-fluid"> 
 
-              <form class="navbar-form navbar-right" role="search">
-                <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Buscar">
-                </div>
-                <button type="submit" class="btn btn-default">Enviar</button>
-              </form>
-              <ul class="nav navbar-nav navbar-right">
-                <li> </li>
-                <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true">Usuário <span class="caret"></span></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="#" >Interagir</a> </li>
-                    <li><a href="#" onClick="window.open('profile.php','Histórico','resizable,height=260,width=370'); return false;">Perfil</a> </li>
-                    <li><a href="#" onClick="window.open('config.php','Histórico','resizable,height=260,width=370'); return false;">Configurações</a> </li>
-                    <li role="separator" class="divider"></li>
-                    <li><a href="http://localhost/Nexus/www/nexus/com/br/">Sair</a> </li>
-                  </ul>
-                </li>
-              </ul>
+            <form class="navbar-form navbar-right" role="search">
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Buscar">
+              </div>
+              <button type="submit" class="btn btn-default">Enviar</button>
+            </form>
+            <ul class="nav navbar-nav navbar-right">
+              <li> </li>
+              <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true">Usuário <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#" onClick="window.open('interagir.php','Histórico','resizable,height=260,width=370'); return false;">Interagir</a> </li>
+                  <li><a href="#" onClick="window.open('profile.php','Histórico','resizable,height=260,width=370'); return false;">Perfil</a> </li>
+                  <li><a href="#" onClick="window.open('config.php','Histórico','resizable,height=260,width=370'); return false;">Configurações</a> </li>
+                  <li role="separator" class="divider"></li>
+                  <li><a href="http://localhost/Nexus/www/nexus/com/br/">Sair</a> </li>
+                </ul>
+              </li>
+            </ul>
           </div>
         </div>
       </nav>
-
       <header>
         <div class="jumbotron">
           <div class="container">
