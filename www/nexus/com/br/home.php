@@ -10,16 +10,14 @@
 <body>
 	<nav style="background: #F0F8FF">
 		<div class="container"> 
-			<div class="navbar-header">
-				<a class="navbar-brand" href="#">Nexus</a> </div>
-				
+			<div class="navbar-header"> <img src="" class="img-responsive" alt="Nexus Logo"> </div>
 				<div class="collapse navbar-collapse">
 					<form class="navbar-form navbar-right" role="search">
 						<div class="form-group">
 							<input type="text" class="form-control" placeholder="Email">
 							<input type="password" class="form-control" placeholder="Senha">
 						</div>
-						<button type="submit" class="btn btn-default">Login</button>
+						<a href="http://localhost/Nexus/www/home_feed.php" class="btn btn-default">Login </a>
 						<button type="submit" class="btn btn-default">Registrar</button>
 					</form>
 				</div>
