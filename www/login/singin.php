@@ -6,16 +6,10 @@
 </head>
 <body>
 
-	<script src="/javascripts/application.js" type="text/javascript" charset="utf-8" async defer>
-		function btnLoginOnClick(){
-			
-		}
-	</script>
-
 	<form class="navbar-form pull-left">
 		<input type="text" class="span2" id="txtRA">
 		<input type="password" class="span2" id="txtSenha">
-		<button type="submit" class="btn" id="btnLogin" onclick="btnLoginOnClick()">Login</button>
+		<input type="button" class="btn" id="btnLogin" onClick="javascript: location.href='http://localhost/Nexus/www/home_feed.php;'" value="Login">
 		<button type="submit" class="btn" id="btnRegistrar">Registrar</button>
 	</form>
 
